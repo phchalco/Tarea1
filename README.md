@@ -1,4 +1,4 @@
-                                                                 Principios de Circuitos Eléctricos
+                                                         Principios de Circuitos Eléctricos
 
 Nombre: Pablo Chalco   NRC: 10067  Materia: F. de Circuitos Eléctricos   Fecha: 10/11/2022  
 
@@ -54,5 +54,11 @@ Reglas básicas
 3. Se determina el número de lugares que debe recorrer el punto decimal encontrando la diferencia en las potencias de diez de las unidades a convertir.
 
 3.-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+![](https://github.com/phchalco/Tarea1/blob/main/Ej1.png)
+
+![](https://github.com/phchalco/Tarea1/blob/main/Ej2.png)
+
+![](https://github.com/phchalco/Tarea1/blob/main/Ej3.png)
 
 
