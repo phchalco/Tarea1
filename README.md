@@ -16,7 +16,7 @@ Tema: Principios de Circuitos Eléctricos
 
 -Demostrar el uso de la ingeniería en los campos establecidos.
 
--Aplicar los conocimiento de ingenieria en temas prácticos.
+-Aplicar los conocimientos de ingeniería en temas prácticos.
 
 2.-Marco Teórico:
 
