@@ -99,3 +99,4 @@ Un circuito eléctrico básico es una agrupación ordenada de componentes físic
 
 ![](https://github.com/phchalco/Tarea1/blob/main/11.png)
 
+3.1-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
