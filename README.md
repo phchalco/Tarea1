@@ -16,6 +16,8 @@ Tema: Principios de Circuitos Eléctricos
 
 -Demostrar el uso de la ingeniería en los campos establecidos.
 
+-Aplicar los conocimiento de ingenieria en temas prácticos.
+
 2.-Marco Teórico:
 
 Capítulo 1
@@ -106,15 +108,21 @@ Seguridad Eléctrica
 Temas informales sobre seguridad eléctrica 
 
 -Medidas de seguridad específicas del sitio o generales del trabajo eléctrico 
+
 -Trabajar cerca de líneas eléctricas energizadas de alto voltaje 
+
 -Cómo lidiar con las líneas eléctricas caídas de manera segura 
+
 -Precauciones básicas de seguridad respecto al arco eléctrico 
 
 Temas sobre seguridad eléctrica para reuniones 
 
 -Revisión de fuentes y causas de descargas eléctricas 
+
 -Comportamientos seguros que minimizan el riesgo de lesiones eléctricas 
+
 -Efectividad y mejora de los controles de seguridad eléctrica 
+
 -Lecciones aprendidas por incidentes eléctricos y resultados de seguridad
 
 3.1-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
