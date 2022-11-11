@@ -1,20 +1,20 @@
-Principios de Circuitos Eléctricos
+                                                                 Principios de Circuitos Eléctricos
 
 Nombre: Pablo Chalco   NRC: 10067  Materia: F. de Circuitos Eléctricos   Fecha: 10/11/2022  
 
 Tema: Principios de Circuitos Eléctricos
 
-Objetivos Generales: 
+1.-Objetivos Generales: 
 
 -Analizar diferentes cantidades y unidades existentes y demostrar su uso de manera exacta.
 
-Objetivos Específicos:
+1.1-Objetivos Específicos:
 
 -Comprender y analizar las unidades de medición
 -Utilizar notación científica en distintas secciones.
 -Demostrar el uso de la ingeniería en los campos establecidos.
 
-Marco Teórico:
+2.-Marco Teórico:
 
 Capítulo 1
 Unidades fundamentales y unidades derivadas
@@ -52,5 +52,7 @@ Reglas básicas
 1. Cuando se convierte una unidad grande en otra más pequeña, el punto decimal se mueve hacia la derecha. 
 2. Cuando se convierte una unidad pequeña en otra más grande, el punto decimal se mueve hacia la izquierda. 
 3. Se determina el número de lugares que debe recorrer el punto decimal encontrando la diferencia en las potencias de diez de las unidades a convertir.
+
+3.-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 
