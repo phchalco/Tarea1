@@ -24,3 +24,17 @@ El sistema SI se basa en siete unidades básicas (a veces llamadas unidades bás
 ![](https://github.com/phchalco/Tarea1/blob/main/1.png)
 ![](https://github.com/phchalco/Tarea1/blob/main/2.png)
 
+NOTACIÓN CIENTÍFICA
+
+La notación científica proporciona una manera conveniente de representar números grandes y pequeños y realizar cálculos usando esos números. En notación científica, las cantidades se expresan como números del 1 al 10 multiplicados por potencias de 10.
+
+NOTACIÓN DE INGENIERÍA Y PREFIJOS MÉTRICOS
+
+La notación técnica es similar a la notación científica. Sin embargo, en notación técnica, los números pueden tener de 1 a 3 dígitos a la izquierda del punto decimal, y el décimo exponente debe ser un múltiplo de 3.
+
+PREFIJOS MÉTRICOS
+
+Los prefijos métricos son los grados de diez más utilizados.
+
+
+
