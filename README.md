@@ -10,9 +10,9 @@ Tema: Principios de Circuitos Eléctricos
 
 1.1-Objetivos Específicos:
 
--Comprender y analizar las unidades de medición
--Utilizar notación científica en distintas secciones.
--Demostrar el uso de la ingeniería en los campos establecidos.
+Comprender y analizar las unidades de medición
+Utilizar notación científica en distintas secciones.
+Demostrar el uso de la ingeniería en los campos establecidos.
 
 2.-Marco Teórico:
 
@@ -61,4 +61,31 @@ Reglas básicas
 
 ![](https://github.com/phchalco/Tarea1/blob/main/Ej3.png)
 
+Capítulo 2
+
+Voltaje, Corriente y Resistencia
+
+Las aplicaciones útiles de la electrónica en situaciones del mundo real requieren una comprensión inicial de la teoría subyacente de la aplicación particular. Al aprender la teoría, puedes aprender a aplicarla en la práctica.
+
+Estructura Atómica
+
+Toda la materia se compone de átomos, y todos los átomos se componen de electrones, protones y neutrones. En esta sección aprenderá acerca de la estructura de un átomo, lo cual incluye capas y órbitas de los electrones, electrones de valencia, iones y niveles de energía.
+
+Carga Eléctrica
+
+La carga eléctrica (Q) se mide en coulombs, simbolizada mediante C. Un coulomb es la carga total poseída por 6.25x10^18 electrones.
+
+Voltaje, Corriente, Resistencia
+
+El voltaje, la corriente y la resistencia son las cantidades básicas presentes en todos los circuitos eléctricos. El voltaje es necesario para producir corriente, y la resistencia limita la cantidad de corriente en un circuito. La relación de estas tres cantidades se describe mediante la Ley de Ohm.
+
+Fuentes de voltaje y corriente
+
+Una fuente de voltaje proporciona energía eléctrica o fuerza electromotriz (fem), más comúnmente conocida como voltaje. Una fuente de corriente proporciona una corriente constante a una carga
+
+Resistores
+
+Circuito Eléctrico 
+
+Un circuito eléctrico básico es una agrupación ordenada de componentes físicos que utilizan voltaje, corriente y resistencia para realizar alguna función útil.
 
