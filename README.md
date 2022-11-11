@@ -45,4 +45,12 @@ Los prefijos métricos son los grados de diez más utilizados.
 
 ![](https://github.com/phchalco/Tarea1/blob/main/6.png)
 
+CONVERSIONES DE UNIDADES MÉTRICAS
+
+Reglas básicas
+
+1. Cuando se convierte una unidad grande en otra más pequeña, el punto decimal se mueve hacia la derecha. 
+2. Cuando se convierte una unidad pequeña en otra más grande, el punto decimal se mueve hacia la izquierda. 
+3. Se determina el número de lugares que debe recorrer el punto decimal encontrando la diferencia en las potencias de diez de las unidades a convertir.
+
 
