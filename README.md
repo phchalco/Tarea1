@@ -1,18 +1,20 @@
                                                         Principios de Circuitos Eléctricos
 
-Nombre: Pablo Chalco   NRC: 10067  Materia: F. de Circuitos Eléctricos   Fecha: 10/11/2022  
+Nombre: Pablo Chalco   NRC: 10067  Materia: F. de Circuitos Eléctricos   Fecha: 11/11/2022  
 
 Tema: Principios de Circuitos Eléctricos
 
 1.-Objetivos Generales: 
 
--Analizar diferentes cantidades y unidades existentes y demostrar su uso de manera exacta.
+-Analizar diferentes cantidades y unidades existentes y demostrar el uso del voltaje, resistencia y corriente de manera exacta.
 
 1.1-Objetivos Específicos:
 
-Comprender y analizar las unidades de medición
-Utilizar notación científica en distintas secciones.
-Demostrar el uso de la ingeniería en los campos establecidos.
+-Comprender y analizar las unidades de medición
+
+-Utilizar notación científica en distintas secciones.
+
+-Demostrar el uso de la ingeniería en los campos establecidos.
 
 2.-Marco Teórico:
 
