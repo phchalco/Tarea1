@@ -19,10 +19,15 @@ Marco Teórico:
 Capítulo 1
 Unidades fundamentales y unidades derivadas
 
-El sistema SI se basa en siete unidades básicas (a veces llamadas unidades básicas) y dos unidades complementarias. Todas las medidas se pueden expresar como una combinación de unidades.
+El sistema SI se basa en siete unidades básicas (a veces llamadas unidades básicas) y dos unidades complementarias. Todas las medidas se pueden expresar como una combinación de unidades primarias y secundarias.
 
 ![](https://github.com/phchalco/Tarea1/blob/main/1.png)
 ![](https://github.com/phchalco/Tarea1/blob/main/2.png)
+
+Los símbolos literales se utilizan para representar tanto las cantidades como sus unidades. Se usa un símbolo para representar el nombre de la cantidad y otro símbolo se usa para identificar la unidad de medida de esa cantidad.
+
+![](https://github.com/phchalco/Tarea1/blob/main/3.png)
+![](https://github.com/phchalco/Tarea1/blob/main/4.png)
 
 NOTACIÓN CIENTÍFICA
 
