@@ -99,4 +99,58 @@ Un circuito eléctrico básico es una agrupación ordenada de componentes físic
 
 ![](https://github.com/phchalco/Tarea1/blob/main/11.png)
 
+Seguridad Eléctrica 
+
+Temas informales sobre seguridad eléctrica 
+
+-Medidas de seguridad específicas del sitio o generales del trabajo eléctrico 
+-Trabajar cerca de líneas eléctricas energizadas de alto voltaje 
+-Cómo lidiar con las líneas eléctricas caídas de manera segura 
+-Precauciones básicas de seguridad respecto al arco eléctrico 
+
+Temas sobre seguridad eléctrica para reuniones 
+
+-Revisión de fuentes y causas de descargas eléctricas 
+-Comportamientos seguros que minimizan el riesgo de lesiones eléctricas 
+-Efectividad y mejora de los controles de seguridad eléctrica 
+-Lecciones aprendidas por incidentes eléctricos y resultados de seguridad
+
 3.1-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+![](https://github.com/phchalco/Tarea1/blob/main/Ej4.png)
+
+![](https://github.com/phchalco/Tarea1/blob/main/Ej5.png)
+
+![](https://github.com/phchalco/Tarea1/blob/main/Ej6.png)
+
+![](https://github.com/phchalco/Tarea1/blob/main/Ej7.png)
+
+4.-Video
+
+
+
+5.-Conclusiones:
+
+-En base a lo expuesto anteriormente, se puede precisar que las unidades y cantidades estudiadas y presentadas en este documento son muy importantes a la hora de realizar cálculos con circuitos y facilitan la manera de realizarlos.
+
+-Tras el análisis expuesto, se puede afirmar que el concepto de voltaje, corriente y resistencia son de suma importancia, pues nos detallan las utilidades de su manipulación, así como también los riesgos de no manipularlos adecuadamente.
+
+6.-Bibliografía:
+
+Diaz, L. M. P. (2010, 10 junio). Magnitudes y unidades de la electricidad. Monografias.com. https://www.monografias.com/trabajos82/magnitudes-y-unidades-electricidad/magnitudes-y-unidades-electricidad
+
+Corriente, voltaje y resistencia. (s. f.). Humane Slaughter Association. https://www.hsa.org.uk/electricidad/corriente-voltaje-y-resistencia
+
+1.1.- La carga eléctrica. (s. f.). https://www.edu.xunta.gal/espazoAbalar/sites/espazoAbalar/files/datos/1464947843/contido/11_la_carga_elctrica.html
+
+Estructura atómica y reacciones químicas – Aprendizaje U. Chile. (s. f.). https://aprendizaje.uchile.cl/recursos-para-aprender-ciencias-basicas-y-matematicas/quimica/estatomica/
+
+SafetyCulture. (2022, 28 abril). Riesgos eléctricos y seguridad eléctrica. https://safetyculture.com/es/temas/riesgos-electricos-y-seguridad-electrica/
+
+Circuitos Electricos Partes y Tipos. (s. f.). https://www.areatecnologia.com/electricidad/circuitos-electricos.html
+
+
+
+
+
+
