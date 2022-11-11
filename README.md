@@ -21,3 +21,5 @@ Unidades fundamentales y unidades derivadas
 
 El sistema SI se basa en siete unidades básicas (a veces llamadas unidades básicas) y dos unidades complementarias. Todas las medidas se pueden expresar como una combinación de unidades.
 
+https://github.com/phchalco/Tarea1/blob/main/1.png
+
